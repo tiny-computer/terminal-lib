@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">複製</string>
+    <string name="paste_text">貼上</string>
+    <string name="text_selection_more">更多</string>
+    <string name="copy_all_text">全選複製</string>
+    <string name="show_keyboard">顯示鍵盤</string>
+    <string name="process_exit_info">程序已完成</string>
+    <string name="process_exit_code">代碼 %d</string>
+    <string name="process_exit_signal">訊號 %d</string>
+    <string name="process_exit_prompt">按 Enter</string>
+</resources>

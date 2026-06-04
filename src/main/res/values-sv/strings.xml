@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Kopiera</string>
+    <string name="paste_text">Klistra in</string>
+    <string name="text_selection_more">Mer</string>
+    <string name="copy_all_text">Kopiera allt</string>
+    <string name="show_keyboard">Visa tangentbord</string>
+    <string name="process_exit_info">Process slutförd</string>
+    <string name="process_exit_code">kod %d</string>
+    <string name="process_exit_signal">signal %d</string>
+    <string name="process_exit_prompt">tryck på Enter</string>
+</resources>

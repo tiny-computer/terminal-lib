@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Копировать</string>
+    <string name="paste_text">Вставить</string>
+    <string name="text_selection_more">Ещё</string>
+    <string name="copy_all_text">Копировать всё</string>
+    <string name="show_keyboard">Показать клавиатуру</string>
+    <string name="process_exit_info">Процесс завершён</string>
+    <string name="process_exit_code">код %d</string>
+    <string name="process_exit_signal">сигнал %d</string>
+    <string name="process_exit_prompt">нажмите Enter</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Kopēt</string>
+    <string name="paste_text">Ielīmēt</string>
+    <string name="text_selection_more">Vairāk</string>
+    <string name="copy_all_text">Kopēt visu</string>
+    <string name="show_keyboard">Rādīt tastatūru</string>
+    <string name="process_exit_info">Process pabeigts</string>
+    <string name="process_exit_code">kods %d</string>
+    <string name="process_exit_signal">signāls %d</string>
+    <string name="process_exit_prompt">nospiediet Enter</string>
+</resources>

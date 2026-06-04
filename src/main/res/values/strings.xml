@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Copy</string>
+    <string name="paste_text">Paste</string>
+    <string name="text_selection_more">More</string>
+    <string name="copy_all_text">Copy All</string>
+    <string name="show_keyboard">Show Keyboard</string>
+
+    <!-- Process exit message -->
+    <string name="process_exit_info">Process completed</string>
+    <string name="process_exit_code">code %d</string>
+    <string name="process_exit_signal">signal %d</string>
+    <string name="process_exit_prompt">press Enter</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">کپی</string>
+    <string name="paste_text">جای‌گذاری</string>
+    <string name="text_selection_more">بیشتر</string>
+    <string name="copy_all_text">کپی همه</string>
+    <string name="show_keyboard">نمایش صفحه‌کلید</string>
+    <string name="process_exit_info">فرایند تکمیل شد</string>
+    <string name="process_exit_code">کد %d</string>
+    <string name="process_exit_signal">سیگنال %d</string>
+    <string name="process_exit_prompt">Enter را فشار دهید</string>
+</resources>

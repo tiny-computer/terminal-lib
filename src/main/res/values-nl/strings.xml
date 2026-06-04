@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Kopiëren</string>
+    <string name="paste_text">Plakken</string>
+    <string name="text_selection_more">Meer</string>
+    <string name="copy_all_text">Alles kopiëren</string>
+    <string name="show_keyboard">Toetsenbord weergeven</string>
+    <string name="process_exit_info">Proces voltooid</string>
+    <string name="process_exit_code">code %d</string>
+    <string name="process_exit_signal">signaal %d</string>
+    <string name="process_exit_prompt">druk op Enter</string>
+</resources>

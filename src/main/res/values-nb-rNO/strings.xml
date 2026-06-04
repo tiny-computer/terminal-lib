@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Kopier</string>
+    <string name="paste_text">Lim inn</string>
+    <string name="text_selection_more">Mer</string>
+    <string name="copy_all_text">Kopier alt</string>
+    <string name="show_keyboard">Vis tastatur</string>
+    <string name="process_exit_info">Prosess fullført</string>
+    <string name="process_exit_code">kode %d</string>
+    <string name="process_exit_signal">signal %d</string>
+    <string name="process_exit_prompt">trykk Enter</string>
+</resources>

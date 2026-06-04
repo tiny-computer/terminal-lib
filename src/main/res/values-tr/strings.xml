@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Kopyala</string>
+    <string name="paste_text">Yapıştır</string>
+    <string name="text_selection_more">Daha fazla</string>
+    <string name="copy_all_text">Tümünü kopyala</string>
+    <string name="show_keyboard">Klavyeyi göster</string>
+    <string name="process_exit_info">İşlem tamamlandı</string>
+    <string name="process_exit_code">kod %d</string>
+    <string name="process_exit_signal">sinyal %d</string>
+    <string name="process_exit_prompt">Enter\'a basın</string>
+</resources>

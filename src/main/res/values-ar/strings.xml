@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">نسخ</string>
+    <string name="paste_text">لصق</string>
+    <string name="text_selection_more">المزيد</string>
+    <string name="copy_all_text">نسخ الكل</string>
+    <string name="show_keyboard">إظهار لوحة المفاتيح</string>
+    <string name="process_exit_info">اكتملت العملية</string>
+    <string name="process_exit_code">الرمز %d</string>
+    <string name="process_exit_signal">الإشارة %d</string>
+    <string name="process_exit_prompt">اضغط Enter</string>
+</resources>

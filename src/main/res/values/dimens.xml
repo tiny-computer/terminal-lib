@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="eks_height">32dp</dimen>
+    <dimen name="eks_height_two_line">72dp</dimen>
+    <dimen name="eks_height_one_line">36dp</dimen>
+</resources>

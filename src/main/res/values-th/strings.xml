@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">คัดลอก</string>
+    <string name="paste_text">วาง</string>
+    <string name="text_selection_more">เพิ่มเติม</string>
+    <string name="copy_all_text">คัดลอกทั้งหมด</string>
+    <string name="show_keyboard">แสดงแป้นพิมพ์</string>
+    <string name="process_exit_info">กระบวนการเสร็จสิ้น</string>
+    <string name="process_exit_code">รหัส %d</string>
+    <string name="process_exit_signal">สัญญาณ %d</string>
+    <string name="process_exit_prompt">กด Enter</string>
+</resources>

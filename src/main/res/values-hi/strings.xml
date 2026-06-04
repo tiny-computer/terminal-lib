@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">कॉपी करें</string>
+    <string name="paste_text">पेस्ट करें</string>
+    <string name="text_selection_more">अधिक</string>
+    <string name="copy_all_text">सभी कॉपी करें</string>
+    <string name="show_keyboard">कीबोर्ड दिखाएं</string>
+    <string name="process_exit_info">प्रक्रिया पूर्ण हुई</string>
+    <string name="process_exit_code">कोड %d</string>
+    <string name="process_exit_signal">सिग्नल %d</string>
+    <string name="process_exit_prompt">Enter दबाएं</string>
+</resources>

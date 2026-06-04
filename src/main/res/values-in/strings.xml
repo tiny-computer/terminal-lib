@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Salin</string>
+    <string name="paste_text">Tempel</string>
+    <string name="text_selection_more">Lainnya</string>
+    <string name="copy_all_text">Salin semua</string>
+    <string name="show_keyboard">Tampilkan keyboard</string>
+    <string name="process_exit_info">Proses selesai</string>
+    <string name="process_exit_code">kode %d</string>
+    <string name="process_exit_signal">sinyal %d</string>
+    <string name="process_exit_prompt">tekan Enter</string>
+</resources>

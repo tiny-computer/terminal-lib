@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">நகலெடு</string>
+    <string name="paste_text">ஒட்டு</string>
+    <string name="text_selection_more">மேலும்</string>
+    <string name="copy_all_text">அனைத்தையும் நகலெடு</string>
+    <string name="show_keyboard">விசைப்பலகையைக் காட்டு</string>
+    <string name="process_exit_info">செயல்முறை முடிந்தது</string>
+    <string name="process_exit_code">குறியீடு %d</string>
+    <string name="process_exit_signal">சமிக்ஞை %d</string>
+    <string name="process_exit_prompt">Enter ஐ அழுத்தவும்</string>
+</resources>

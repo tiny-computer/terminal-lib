@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Nakili</string>
+    <string name="paste_text">Bandika</string>
+    <string name="text_selection_more">Zaidi</string>
+    <string name="copy_all_text">Nakili yote</string>
+    <string name="show_keyboard">Onyesha kibodi</string>
+    <string name="process_exit_info">Mchakato umekamilika</string>
+    <string name="process_exit_code">msimbo %d</string>
+    <string name="process_exit_signal">ishara %d</string>
+    <string name="process_exit_prompt">bonyeza Enter</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">کۆپیکردن</string>
+    <string name="paste_text">لکاندن</string>
+    <string name="text_selection_more">زیاتر</string>
+    <string name="copy_all_text">کۆپیکردنی هەموو</string>
+    <string name="show_keyboard">نیشاندانی تەختەکلیل</string>
+    <string name="process_exit_info">پرۆسە تەواو بوو</string>
+    <string name="process_exit_code">کۆد %d</string>
+    <string name="process_exit_signal">نیشانە %d</string>
+    <string name="process_exit_prompt">پەنجە لەسەر Enter</string>
+</resources>

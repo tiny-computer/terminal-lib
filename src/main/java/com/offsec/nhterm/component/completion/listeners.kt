@@ -1,0 +1,12 @@
+package com.offsec.nhterm.component.completion
+
+interface MarkScoreListener {
+  fun onMarkScore(score: Int)
+}
+
+interface OnAutoCompleteListener {
+  fun onCompletionRequired(newText: String?)
+  fun onKeyCode(keyCode: Int, keyMod: Int)
+  fun onCleanUp()
+  fun onFinishCompletion(): Boolean
+}

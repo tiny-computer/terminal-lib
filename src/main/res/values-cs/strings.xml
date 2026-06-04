@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Kopírovat</string>
+    <string name="paste_text">Vložit</string>
+    <string name="text_selection_more">Více</string>
+    <string name="copy_all_text">Kopírovat vše</string>
+    <string name="show_keyboard">Zobrazit klávesnici</string>
+    <string name="process_exit_info">Proces dokončen</string>
+    <string name="process_exit_code">kód %d</string>
+    <string name="process_exit_signal">signál %d</string>
+    <string name="process_exit_prompt">stiskněte Enter</string>
+</resources>

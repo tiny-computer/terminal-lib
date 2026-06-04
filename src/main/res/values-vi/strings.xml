@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">Sao chép</string>
+    <string name="paste_text">Dán</string>
+    <string name="text_selection_more">Thêm</string>
+    <string name="copy_all_text">Sao chép tất cả</string>
+    <string name="show_keyboard">Hiển thị bàn phím</string>
+    <string name="process_exit_info">Tiến trình đã hoàn tất</string>
+    <string name="process_exit_code">mã %d</string>
+    <string name="process_exit_signal">tín hiệu %d</string>
+    <string name="process_exit_prompt">nhấn Enter</string>
+</resources>

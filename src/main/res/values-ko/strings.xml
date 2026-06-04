@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_text">복사</string>
+    <string name="paste_text">붙여넣기</string>
+    <string name="text_selection_more">더보기</string>
+    <string name="copy_all_text">전체 복사</string>
+    <string name="show_keyboard">키보드 표시</string>
+    <string name="process_exit_info">프로세스 완료됨</string>
+    <string name="process_exit_code">코드 %d</string>
+    <string name="process_exit_signal">시그널 %d</string>
+    <string name="process_exit_prompt">Enter 누르기</string>
+</resources>
