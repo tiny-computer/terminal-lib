@@ -54,15 +54,18 @@ java {
     targetCompatibility = JavaVersion.VERSION_17
 }
 
-afterEvaluate {
-    publishing {
-        publications {
-            register('release', MavenPublication) {
-                from components.release
-                groupId = 'com.github.tiny-computer'
-                artifactId = 'terminal-lib'
-                version = '1.0.0'
-            }
+// Publication metadata configured eagerly (required by Gradle 8.x)
+// Component attachment deferred until Android plugin creates components
+publishing {
+    publications {
+        release(MavenPublication) {
+            groupId = 'com.github.tiny-computer'
+            artifactId = 'terminal-lib'
+            version = '1.0.0'
         }
     }
+}
+
+afterEvaluate {
+    publishing.publications.release.from(components.release)
 }
