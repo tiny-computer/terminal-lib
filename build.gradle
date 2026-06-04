@@ -1,5 +1,5 @@
 plugins {
-    id 'com.android.library'
+    id 'com.android.library' version '8.7.3'
     id 'maven-publish'
 }
 
@@ -54,15 +54,14 @@ java {
     targetCompatibility = JavaVersion.VERSION_17
 }
 
-publishing {
-    publications {
-        release(MavenPublication) {
-            groupId = 'com.github.tiny-computer'
-            artifactId = 'terminal-lib'
-            version = '1.0.0'
-
-            afterEvaluate {
+afterEvaluate {
+    publishing {
+        publications {
+            register('release', MavenPublication) {
                 from components.release
+                groupId = 'com.github.tiny-computer'
+                artifactId = 'terminal-lib'
+                version = '1.0.0'
             }
         }
     }
