@@ -194,7 +194,7 @@ public class TerminalSession extends TerminalOutput {
    * @param rows    The number of rows in the terminal window.
    */
   public void initializeEmulator(int columns, int rows) {
-    mEmulator = new TerminalEmulator(this, columns, rows, /* transcript= */2000);
+    mEmulator = new TerminalEmulator(this, columns, rows, /* transcript= */4096);
 
     int[] processId = new int[1];
     mTerminalFileDescriptor = JNI.createSubprocess(mShellPath, mCwd, mArgs, mEnv, processId, rows, columns);
